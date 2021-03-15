@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @2o1da
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 
+- 👀 
+- 🌱 
+- 💞️ 
+- 📫 
 
 # Whatever You Say I Am, That's What I'm Not
 
