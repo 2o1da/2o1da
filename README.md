@@ -1,25 +1,15 @@
+# Whatever You Say I Am, That's What I'm Not
+
+![오아시스](https://ichef.bbci.co.uk/news/1024/cpsprodpb/2683/production/_114695890_michaelspencerjones-oasistablefootball-rockfieldstudios1995.jpg)
+---
+```
+Code Is Everything.
+```
 - 👋 
 - 👀 
 - 🌱 
 - 💞️ 
 - 📫 
-
-# Whatever You Say I Am, That's What I'm Not
-
-![오아시스](https://ichef.bbci.co.uk/news/1024/cpsprodpb/2683/production/_114695890_michaelspencerjones-oasistablefootball-rockfieldstudios1995.jpg)
-
-
-
----
-
-
-
-
-
-
-```
-Code Is Everything.
-``` 
 
 
 <!---
