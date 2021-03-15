@@ -4,7 +4,7 @@
 ---
 
 ```
-return AS YOU WERE;
+return AS_YOU_WERE;
 ```
 
 
