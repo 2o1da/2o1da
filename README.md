@@ -1,3 +1,9 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2o1da&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![2o1da's github stats](https://github-readme-stats.vercel.app/api?username=2o1da&show_icons=true)
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=2o1da)](https://solved.ac/2o1da)
+
 # Whatever You Say I Am, That's What I'm Not
 
 ![오아시스](https://ichef.bbci.co.uk/news/1024/cpsprodpb/2683/production/_114695890_michaelspencerjones-oasistablefootball-rockfieldstudios1995.jpg)
