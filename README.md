@@ -1,4 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=AS%20You%20WERE&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=AS%20YOU%20WERE&fontSize=40)
+
+<p>
+  <em>
+    <b>감정</b>은 사라지고 <b>결과</b>만 남을 것이다.<br>
+  </em>  
+</p>
+
 
 ![2o1da's github stats](https://github-readme-stats.vercel.app/api?username=2o1da&show_icons=true)
 [![2o1da's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=2o1da&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/2o1da)
