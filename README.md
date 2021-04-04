@@ -3,12 +3,13 @@
 ![2o1da's github stats](https://github-readme-stats.vercel.app/api?username=2o1da&show_icons=true)
 [![2o1da's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=2o1da&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/2o1da)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=2o1da)](https://solved.ac/2o1da)f
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=2o1da)](https://solved.ac/2o1da)
+
+---
 
 # Whatever You Say I Am, That's What I'm Not
 
 <img src="https://ichef.bbci.co.uk/news/1024/cpsprodpb/2683/production/_114695890_michaelspencerjones-oasistablefootball-rockfieldstudios1995.jpg" width="850">
----
 
 ```
 return AS_YOU_WERE;
