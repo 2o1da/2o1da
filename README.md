@@ -1,10 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=AS%20YOU%20WERE&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=SOL%20GIT&fontSize=50)
 
-<p>
-  <em>
-    <b>감정</b>은 사라지고 <b>결과</b>만 남을 것이다.<br>
-  </em>  
-</p>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2o1da&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ![2o1da's github stats](https://github-readme-stats.vercel.app/api?username=2o1da&show_icons=true)
@@ -21,10 +17,6 @@
 ```
 return AS_YOU_WERE;
 ```
-# 2o1da&nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2o1da&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
-
 
 <!---
 2o1da/2o1da is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
