@@ -2,8 +2,6 @@
 
 ![2o1da's GitHub Stats](https://github-readme-stats.vercel.app/api?username=2o1da&show_icons=true&hide=stars) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2o1da&layout=compact)
 
-!<img src="https://64.media.tumblr.com/c92c21eb1f02e921c420b3792b3ac08f/tumblr_pl5tcnHCe91y2vx9xo1_1280.jpg" width="850">
-
 
 <!---
 2o1da/2o1da is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
