@@ -8,10 +8,6 @@ Hi there! I have been enjoy being absorbed in what I love. <br>
   <a href="mailto:solda@khu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Email-1?style=flat-square&ogo=Gmail&logoColor=white&color=red"/>
   <a href="https://velog.io/@solda" target="_blank"><img src="https://img.shields.io/badge/velog-1?style=flat-square&ogo=velog&logoColor=white&color=whitegreen"/>
 </p>
-</p>
-  
-</br>
-</br>
 
 ### 📚 Language
 ![Java](https://img.shields.io/badge/Java-1?color=orange&logo=java&logoColor=white&style=flat-square&20Sponsors) 
