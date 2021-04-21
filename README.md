@@ -10,9 +10,14 @@ Hi there! I have been enjoy being absorbed in what I love. <br>
 </p>
 
 ### 📚 Language
-![Java](https://img.shields.io/badge/Java-1?color=orange&logo=java&logoColor=white&style=flat-square&20Sponsors) 
-![C++](https://img.shields.io/badge/C++-1?color=yellow&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1?color=blue&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-1?color=orange&logo=java&logoColor=white&style=flat-square) 
+![C++](https://img.shields.io/badge/C++-1?color=yellow&logo=c%2B%2B&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-1?color=blue&logo=python&logoColor=white&style=flat-square)
+<br>
+</br>
+![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat-square)
+![Spring](https://img.shields.io/badge/Spring-3178C6?color=6DB33F&logo=spring&logoColor=white&style=flat-square)
+![Nodejs](https://img.shields.io/badge/Nodejs-3178C6?color=339933&logo=node.js&logoColor=white&style=flat-square)
 
 <br>
 </br>
