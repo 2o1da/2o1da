@@ -23,7 +23,7 @@ Hi there! I have been enjoying being absorbed in what I love. <br>
 </br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/77760931/114874214-12290480-9e37-11eb-9086-52c8d08ea6b4.jpg" height=500><br>
+  
 </p>
 
 
