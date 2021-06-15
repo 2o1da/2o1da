@@ -8,17 +8,23 @@ Hi there! I have been enjoying being absorbed in what I love. <br>
   <a href="mailto:solda@khu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Email-1?style=flat-square&ogo=Gmail&logoColor=white&color=red"/>
   <a href="https://velog.io/@solda" target="_blank"><img src="https://img.shields.io/badge/velog-1?style=flat-square&ogo=velog&logoColor=white&color=whitegreen"/>
 </p>
-
+    
 ### 📚 Language
 ![Java](https://img.shields.io/badge/Java-1?color=orange&logo=java&logoColor=white&style=flat-square) 
 ![C++](https://img.shields.io/badge/C++-1?color=yellow&logo=c%2B%2B&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/Python-1?color=blue&logo=python&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-1?color=3776AB&logo=python&logoColor=white&style=flat-square)
 <br>
-</br>
-![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat-square)
-![Spring](https://img.shields.io/badge/Spring-3178C6?color=6DB33F&logo=spring&logoColor=white&style=flat-square)
-![Nodejs](https://img.shields.io/badge/Nodejs-3178C6?color=339933&logo=node.js&logoColor=white&style=flat-square)
 
+  
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat-square)
+![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat-square)
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white&textColor=white"/>
+
+![Nodejs](https://img.shields.io/badge/Nodejs-3178C6?color=339933&logo=node.js&logoColor=white&style=flat-square)
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&textColor=white"/>
+![Spring](https://img.shields.io/badge/Spring-3178C6?color=6DB33F&logo=spring&logoColor=white&style=flat-square)
+    
 <br>
 </br>
 
