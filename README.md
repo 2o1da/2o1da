@@ -23,7 +23,6 @@ Hi there! I have been enjoying being absorbed in what I love. <br>
 
 ![Nodejs](https://img.shields.io/badge/Nodejs-3178C6?color=339933&logo=node.js&logoColor=white&style=flat-square)
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&textColor=white"/>
-![Spring](https://img.shields.io/badge/Spring-3178C6?color=6DB33F&logo=spring&logoColor=white&style=flat-square)
     
 <br>
 </br>
