@@ -10,7 +10,6 @@ Hi there! I have been enjoying being absorbed in what I love. <br>
 </p>
     
 ### 📚 Language
-![Java](https://img.shields.io/badge/Java-1?color=orange&logo=java&logoColor=white&style=flat-square) 
 ![C++](https://img.shields.io/badge/C++-1?color=yellow&logo=c%2B%2B&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-1?color=3776AB&logo=python&logoColor=white&style=flat-square)
 <br>
