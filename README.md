@@ -21,7 +21,6 @@ Hi there! I have been enjoying being absorbed in what I love. <br>
 ![Nodejs](https://img.shields.io/badge/Nodejs-3178C6?color=339933&logo=node.js&logoColor=white&style=flat-square)
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&textColor=white"/>
     
-
 <!---
 2o1da/2o1da is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
