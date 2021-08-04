@@ -3,7 +3,6 @@
 </p>
 
 ### 🌈 About Me
-Hi there! I have been enjoying being absorbed in what I love. <br>
 <p>
   <a href="mailto:solda@khu.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Email-1?style=flat-square&ogo=Gmail&logoColor=white&color=red"/>
   <a href="https://velog.io/@solda" target="_blank"><img src="https://img.shields.io/badge/velog-1?style=flat-square&ogo=velog&logoColor=white&color=whitegreen"/>
@@ -17,6 +16,7 @@ Hi there! I have been enjoying being absorbed in what I love. <br>
 ![TS](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat-square)
     
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white&textColor=white"/>
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=react&logoColor=white&textColor=white"/>
     
 ![Nodejs](https://img.shields.io/badge/Nodejs-3178C6?color=339933&logo=node.js&logoColor=white&style=flat-square)
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&textColor=white"/>
